@@ -1,0 +1,42 @@
+/* styles.css */
+body {
+    background-color: #e0f7fa; /* Light blue background */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #004d40; /* Darker blue for headers */
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #006064; /* Slightly lighter dark blue for subheaders */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.stButton>button {
+    background-color: #00838f; /* Button blue color */
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.stButton>button:hover {
+    background-color: white;
+    color: #00838f;
+    border: 2px solid #00838f;
+}
+
+.stSelectbox, .stSlider, .stFileUploader {
+    color: #004d40; /* Text color in widgets */
+    font-size: 16px;
+}
