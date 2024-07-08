@@ -59,6 +59,6 @@ The `requirements.txt` file lists all the dependencies required for this project
 streamlit
 opencv-python
 Pillow
-
+```
 ## Contact
 For any questions or feedback, please contact Millicent Tsweleng at [millicenttsweleng@gmail.com].
