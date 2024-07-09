@@ -60,5 +60,6 @@ streamlit
 opencv-python
 Pillow
 ```
+View the app here: https://compressify-mcfy5n3ayqppm35itn6bm4.streamlit.app/
 ## Contact
 For any questions or feedback, please contact Millicent Tsweleng at [millicenttsweleng@gmail.com].
